@@ -16,7 +16,7 @@ The FruitVision Dataset is a high-quality, expert-validated image dataset design
 | **Last Updated**       | April 2025 |
 | **Fruits Included**    | Apple, Banana, Mango, Orange, Grapes |
 | **Categories**         | Fresh, Rotten, Formalin-Mixed (Toxic) |
-| **Total Images**       | [Insert total count here] |
+| **Total Images**       | [Original: 10,154 & Augmented: 81,232] |
 | **File Format**        | .jpg |
 | **Resolution**         | 512 × 512 pixels |
 | **Capture Devices**    | iPhone 15 Pro Max, Redmi POCO M2 Reloaded, Redmi Note 9 Pro |
